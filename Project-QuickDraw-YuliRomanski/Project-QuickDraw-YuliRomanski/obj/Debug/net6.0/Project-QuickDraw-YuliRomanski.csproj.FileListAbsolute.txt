@@ -1,0 +1,15 @@
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\bin\Debug\net6.0\Project-QuickDraw-YuliRomanski.exe
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\bin\Debug\net6.0\Project-QuickDraw-YuliRomanski.deps.json
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\bin\Debug\net6.0\Project-QuickDraw-YuliRomanski.runtimeconfig.json
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\bin\Debug\net6.0\Project-QuickDraw-YuliRomanski.dll
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\bin\Debug\net6.0\Project-QuickDraw-YuliRomanski.pdb
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.csproj.AssemblyReference.cache
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.AssemblyInfoInputs.cache
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.AssemblyInfo.cs
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.csproj.CoreCompileInputs.cache
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.dll
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\refint\Project-QuickDraw-YuliRomanski.dll
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.pdb
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\Project-QuickDraw-YuliRomanski.genruntimeconfig.cache
+C:\Users\mrdil\source\repos\Project-QuickDraw-YuliRomanski\Project-QuickDraw-YuliRomanski\obj\Debug\net6.0\ref\Project-QuickDraw-YuliRomanski.dll
